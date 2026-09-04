@@ -1,0 +1,212 @@
+{
+  "hash": "46028db4",
+  "configHash": "582168d5",
+  "lockfileHash": "3f2be4a2",
+  "browserHash": "cb5db2ca",
+  "optimized": {
+    "@radix-ui/react-avatar": {
+      "src": "../../@radix-ui/react-avatar/dist/index.mjs",
+      "file": "@radix-ui_react-avatar.js",
+      "fileHash": "0c3d4b75",
+      "needsInterop": false
+    },
+    "@radix-ui/react-dialog": {
+      "src": "../../@radix-ui/react-dialog/dist/index.mjs",
+      "file": "@radix-ui_react-dialog.js",
+      "fileHash": "8e9e4809",
+      "needsInterop": false
+    },
+    "@radix-ui/react-dropdown-menu": {
+      "src": "../../@radix-ui/react-dropdown-menu/dist/index.mjs",
+      "file": "@radix-ui_react-dropdown-menu.js",
+      "fileHash": "38cb15dd",
+      "needsInterop": false
+    },
+    "@radix-ui/react-label": {
+      "src": "../../@radix-ui/react-label/dist/index.mjs",
+      "file": "@radix-ui_react-label.js",
+      "fileHash": "241220bb",
+      "needsInterop": false
+    },
+    "@radix-ui/react-popover": {
+      "src": "../../@radix-ui/react-popover/dist/index.mjs",
+      "file": "@radix-ui_react-popover.js",
+      "fileHash": "059fd2a6",
+      "needsInterop": false
+    },
+    "@radix-ui/react-progress": {
+      "src": "../../@radix-ui/react-progress/dist/index.mjs",
+      "file": "@radix-ui_react-progress.js",
+      "fileHash": "fb20a8bf",
+      "needsInterop": false
+    },
+    "@radix-ui/react-scroll-area": {
+      "src": "../../@radix-ui/react-scroll-area/dist/index.mjs",
+      "file": "@radix-ui_react-scroll-area.js",
+      "fileHash": "f7df35d3",
+      "needsInterop": false
+    },
+    "@radix-ui/react-select": {
+      "src": "../../@radix-ui/react-select/dist/index.mjs",
+      "file": "@radix-ui_react-select.js",
+      "fileHash": "54240a7e",
+      "needsInterop": false
+    },
+    "@radix-ui/react-slider": {
+      "src": "../../@radix-ui/react-slider/dist/index.mjs",
+      "file": "@radix-ui_react-slider.js",
+      "fileHash": "a8619f13",
+      "needsInterop": false
+    },
+    "@radix-ui/react-slot": {
+      "src": "../../@radix-ui/react-slot/dist/index.mjs",
+      "file": "@radix-ui_react-slot.js",
+      "fileHash": "f4b32e3f",
+      "needsInterop": false
+    },
+    "@tanstack/react-query": {
+      "src": "../../@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "8f2e96bf",
+      "needsInterop": false
+    },
+    "class-variance-authority": {
+      "src": "../../class-variance-authority/dist/index.mjs",
+      "file": "class-variance-authority.js",
+      "fileHash": "9c61e690",
+      "needsInterop": false
+    },
+    "clsx": {
+      "src": "../../clsx/dist/clsx.mjs",
+      "file": "clsx.js",
+      "fileHash": "b0caa4ff",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "74e42694",
+      "needsInterop": false
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "5b4c0a2c",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "a7e55264",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "70fa2bfb",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "7c01b651",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "8bb0672b",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "91e16f68",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "bdbd9d32",
+      "needsInterop": false
+    },
+    "sonner": {
+      "src": "../../sonner/dist/index.mjs",
+      "file": "sonner.js",
+      "fileHash": "638c0f41",
+      "needsInterop": false
+    },
+    "tailwind-merge": {
+      "src": "../../tailwind-merge/dist/bundle-mjs.mjs",
+      "file": "tailwind-merge.js",
+      "fileHash": "94401f1d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "dist-B0WUQdKq": {
+      "file": "dist-B0WUQdKq.js",
+      "isDynamicEntry": false
+    },
+    "dist-BEvKR6kC": {
+      "file": "dist-BEvKR6kC.js",
+      "isDynamicEntry": false
+    },
+    "dist-BVOK2EFy": {
+      "file": "dist-BVOK2EFy.js",
+      "isDynamicEntry": false
+    },
+    "dist-Bcl4eapP": {
+      "file": "dist-Bcl4eapP.js",
+      "isDynamicEntry": false
+    },
+    "dist-BdAkthKF": {
+      "file": "dist-BdAkthKF.js",
+      "isDynamicEntry": false
+    },
+    "dist-D1VFCN8O": {
+      "file": "dist-D1VFCN8O.js",
+      "isDynamicEntry": false
+    },
+    "dist-DWhXw1Bo": {
+      "file": "dist-DWhXw1Bo.js",
+      "isDynamicEntry": false
+    },
+    "dist-Dic5YkbB": {
+      "file": "dist-Dic5YkbB.js",
+      "isDynamicEntry": false
+    },
+    "dist-DjpgsEMM": {
+      "file": "dist-DjpgsEMM.js",
+      "isDynamicEntry": false
+    },
+    "dist-DkJtUS0F": {
+      "file": "dist-DkJtUS0F.js",
+      "isDynamicEntry": false
+    },
+    "dist-EKb03w6L": {
+      "file": "dist-EKb03w6L.js",
+      "isDynamicEntry": false
+    },
+    "dist-GJxeoydK": {
+      "file": "dist-GJxeoydK.js",
+      "isDynamicEntry": false
+    },
+    "dist-qLH82T-0": {
+      "file": "dist-qLH82T-0.js",
+      "isDynamicEntry": false
+    },
+    "dist-xad29d21": {
+      "file": "dist-xad29d21.js",
+      "isDynamicEntry": false
+    },
+    "es2015-DcIeWV8g": {
+      "file": "es2015-DcIeWV8g.js",
+      "isDynamicEntry": false
+    },
+    "rolldown-runtime-DC62tzP2": {
+      "file": "rolldown-runtime-DC62tzP2.js",
+      "isDynamicEntry": false
+    }
+  }
+}
